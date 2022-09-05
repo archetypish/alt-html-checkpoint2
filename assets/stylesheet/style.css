@@ -269,8 +269,8 @@ h1 {
 }
 
 .hero {
-  background-image: url("/assets/media/banner.jpg");
   /* background-color: #f6d3c0; */
+  background-image: url("https://oneindiancoder.github.io/alt-html-checkpoint2/assets/media/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
